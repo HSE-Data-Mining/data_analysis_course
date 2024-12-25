@@ -3,4 +3,5 @@ Repo with saved homeworks from data analysis course in HSE 1st the Master's stag
 
 | № lab   | Grade |
 | ------- | ----- |
-|   10    |  10   |
+|   1     |  10   |
+|   2     |  10   |
