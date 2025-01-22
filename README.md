@@ -10,6 +10,8 @@ Our marks = 1.5 + 1.5 + 1.0 + ... + 0.5
 | control |   5   |
 |   lab1  |  10   |
 |   lab2  |  10   |
-|   activ  |  10  |
-|   exTh  |  ?   |
-|   exPr  |  ?   |
+|   activ |  10   |
+|   exTh  |  3    |
+|   exPr  |  6.5  |
+| ------- | ----- |
+|  final  |   7   |
